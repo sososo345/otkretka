@@ -1,0 +1,23 @@
+.h1{
+ font-style: italic;
+ display: flex;
+ justify-content: center;
+ color:rgb(195, 11, 11);
+}
+.goodwords{
+    font-style: italic;
+    display: flex;
+    margin-left: 210px;
+    color:rgb(255, 7, 131);
+    font-size: 120%;
+
+}
+.eight{
+    display: flex;
+    margin-top: -160px;
+}
+.div{
+    background-image: url("photos/back.webp");
+    background-size: 120%;
+    height:600px;
+}
